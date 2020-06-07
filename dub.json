@@ -6,7 +6,7 @@
 	"dependencies": {
 		"tested": "~>0.9.4"
 	},
-	"description": "Validation annotations for dlang structs",
+	"description": "Testing utilities",
 	"homepage": "https://github.com/d-utils/testing",
 	"license": "MIT",
 	"name": "dutils-testing",
